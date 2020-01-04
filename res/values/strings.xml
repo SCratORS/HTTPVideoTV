@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HTTP VideoTV</string>
+    <string name="app_name_settings">Настройки HTTP VideoTV</string>
+    <string name="playlist_url">Укажите URL адрес плейлиста</string>
+    <string name="auto_start">Автозапуск</string>
+    <string name="auto_start_subtitle">Автоматический запуск вместе с системой</string>
+    </resources>
