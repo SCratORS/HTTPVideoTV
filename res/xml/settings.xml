@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/app_name_settings">
+    <CheckBoxPreference
+        android:key="auto_start"
+        android:title="@string/auto_start"
+        android:summary="@string/auto_start_subtitle"
+        android:defaultValue="false"/>
+    <EditTextPreference
+        android:key="url"
+        android:title="@string/playlist_url"
+        android:summary="http://192.168.0.210/playlist.pl"
+        android:defaultValue="http://192.168.0.210/playlist.pl" />
+</PreferenceScreen>
