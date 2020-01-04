@@ -7,9 +7,9 @@ HTTP(S) IP video player for promo translation on TV
 ## Например:
 Мой Web сервер отвечает по адресу http://192.168.0.1/ Создаем на нем директорию для видео-файлов http://192.168.0.1/promo/ В ней лежат промо-ролики movie1.mp4, movie2.mp4, movie3.mp4 Создаем файл плейлиста playlist.pl в котором просто текстом запишем полные url адреса до видео-файлов:
 
-http://192.168.0.1/promo/movie1.mp4
-http://192.168.0.1/promo/movie2.mp4
-http://192.168.0.1/promo/movie3.mp4
+> http://192.168.0.1/promo/movie1.mp4
+> http://192.168.0.1/promo/movie2.mp4
+> http://192.168.0.1/promo/movie3.mp4
 
 Сохраняем файл например в корень сайта http://192.168.0.1/playlist.pl
 
